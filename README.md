@@ -9,14 +9,17 @@
 3. Assessment.pdf - pdf document outlining the tasks
 4  iris.csv - data used in Task 4
 5. Images -  images used in the tasks
-
+6. Dockerfile
+7. requirements.txt
 
 ## Overview of Project
 
-
+In this project focuses on creating a web service that uses machine learning to make predictions based on the data set powerproduction available on Moodle. The goal is to
+produce a model that accurately predicts wind turbine power output from wind speed values, as in the data set. You must then develop a web service that will respond with
+predicted power values based on speed values sent as HTTP requests. 
 
 ## Getting started
-Download and install Python and Anaconda All files associated with this project are available at 
+Download and install Python and Anaconda All files associated with this project are available at https://github.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020
 
 ## Packages used in this project
 
@@ -31,6 +34,8 @@ The following packages were used to run statistical analysis and draw grpahs for
 * import scipy.stats as stats https://docs.scipy.org/doc/scipy/reference/stats.html
 * import matplotlib.pylab as plt https://matplotlib.org/
 * from sklearn.model_selection import ....https://scikit-learn.org/stable/
+* from from tensorflow.keras.models import ......https://keras.io/about/#keras-amp-tensorflow-20
+* from tensorflow.keras.layers import......https://keras.io/about/#keras-amp-tensorflow-20
 
 ## Author
 Niamh O'Leary for HDip in Data Analytics 2019/2020.
