@@ -10,7 +10,7 @@
 4  iris.csv - data used in Task 4
 5. Images -  images used in the tasks
 6. Dockerfile
-7. requirements.txt
+7. Requirements.txt
 
 ## Overview of Project
 
