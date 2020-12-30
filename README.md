@@ -42,8 +42,9 @@ The following packages were used to run statistical analysis and draw grpahs for
 
 ## Running the web service
 
-[
+![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/Capture.PNG)
 
+![image]
 ## Author
 Niamh O'Leary for HDip in Data Analytics 2019/2020.
 
