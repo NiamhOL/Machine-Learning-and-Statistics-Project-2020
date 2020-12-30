@@ -7,11 +7,14 @@
 1. README file
 2. Tasks.ipynb - Jupyter Notebook containing four tasks, pyhon code and references. 
 3. Assessment.pdf - pdf document outlining the tasks
-4  iris.csv - data used in Task 4
+4  Powerproduction.csv - data used in analysis and running the models
 5. Images -  images used in the tasks
 6. Dockerfile
 7. Requirements.txt
-
+8. Dockerfile
+9. server.py 
+10. wind_speed.h5 - wind model
+11. Images included in the project
 ## Overview of Project
 
 In this project focuses on creating a web service that uses machine learning to make predictions based on the data set powerproduction available on Moodle. The goal is to
@@ -36,6 +39,8 @@ The following packages were used to run statistical analysis and draw grpahs for
 * from sklearn.model_selection import ....https://scikit-learn.org/stable/
 * from from tensorflow.keras.models import ......https://keras.io/about/#keras-amp-tensorflow-20
 * from tensorflow.keras.layers import......https://keras.io/about/#keras-amp-tensorflow-20
+
+
 
 ## Author
 Niamh O'Leary for HDip in Data Analytics 2019/2020.
