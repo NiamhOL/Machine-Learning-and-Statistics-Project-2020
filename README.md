@@ -42,9 +42,13 @@ The following packages were used to run statistical analysis and draw grpahs for
 
 ## Running the web service
 
-![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/Capture.PNG)
+In Cmdr navigate to the project folder and run the following commands to create a FLASK enviornment.
 
-![image]
+![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/Capture.PNG)
+![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/tensorflow.png)
+
+Copy the URL and open a web browser. 
+
 ## Author
 Niamh O'Leary for HDip in Data Analytics 2019/2020.
 
