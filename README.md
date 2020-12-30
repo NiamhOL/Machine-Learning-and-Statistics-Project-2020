@@ -5,16 +5,17 @@
 
 ## Contents of Github Repository
 1. README file
-2. Tasks.ipynb - Jupyter Notebook containing four tasks, pyhon code and references. 
-3. Assessment.pdf - pdf document outlining the tasks
+2. MLSProject.ipynb - Jupyter Notebook containing research, overview of data, models and references
+3. Assessment.pdf - pdf document outlining the project
 4  Powerproduction.csv - data used in analysis and running the models
 5. Images -  images used in the tasks
 6. Dockerfile
 7. Requirements.txt
 8. Dockerfile
 9. server.py 
-10. wind_speed.h5 - wind model
+10. wind_speed- wind model
 11. Images included in the project
+
 ## Overview of Project
 
 In this project focuses on creating a web service that uses machine learning to make predictions based on the data set powerproduction available on Moodle. The goal is to
@@ -22,7 +23,7 @@ produce a model that accurately predicts wind turbine power output from wind spe
 predicted power values based on speed values sent as HTTP requests. 
 
 ## Getting started
-Download and install Python and Anaconda All files associated with this project are available at https://github.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020
+Download and install Python and Anaconda, all files associated with this project are available at https://github.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020
 
 ## Packages used in this project
 
