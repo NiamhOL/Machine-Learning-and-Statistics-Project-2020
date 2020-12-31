@@ -66,7 +66,7 @@ Copy the URL and open a web browser.
 
 ## How to run the web service
 ```
-$ export FLASK_APP=web-service.py
+$ export FLASK_APP=server.py
 $ python -m flask run
  * Running on http://127.0.0.1:5000/
 ```
