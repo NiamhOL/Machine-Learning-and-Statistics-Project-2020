@@ -47,22 +47,17 @@ In Cmdr navigate to the project folder and run the following commands to create 
 #### Virtual environment
 Conda was used to create a localhost Virtual Environment (venvMLP) for running the server. The following Windows command line python commands can be to create venvMLP, install and save packages for venvMLP, set the flask_app server and server mode, run the server, stop the server and finally deactivate venvMLP.
 
-λ conda create --name venvMLP python=3.8
-λ conda activate venvMLP
-(venvMLP)λ pip install flask
-(venvMLP)λ pip install tensorflow
-(venvMLP)λ pip install silence-tensorflow
-(venvMLP)λ pip install numpy==1.19.2
-(venvMLP)λ pip freeze > requirements.txt
-(venvMLP)λ set FLASK_APP=web-server.py
-(venvMLP)λ set FLASK_ENV=development
-(venvMLP)λ python -m flask run
+* λ conda create --name venvMLP python=3.8
+* λ conda activate venvMLP
+* (venvMLP)λ pip install flask
+* (venvMLP)λ pip install tensorflow
+* (venvMLP)λ pip install silence-tensorflow
+* (venvMLP)λ pip install numpy==1.19.2
+* (venvMLP)λ pip freeze > requirements.txt
+* (venvMLP)λ set FLASK_APP=web-server.py
+* (venvMLP)λ set FLASK_ENV=development
+* (venvMLP)λ python -m flask run
 Running on http://127.0.0.1:5000/
-Crtl+c
-(venvMLP)λ conda deactivate
-The package requirements can also be install from the list in the file "requirements.txt" using the venv command
-
-(venv)λ pip install -r requirements.txt
 
 ![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/Capture.PNG)
 ![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/tensorflow.png)
