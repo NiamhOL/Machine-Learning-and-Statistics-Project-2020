@@ -64,6 +64,13 @@ Running on http://127.0.0.1:5000/
 
 Copy the URL and open a web browser. 
 
+## How to run the web service
+```
+$ export FLASK_APP=web-service.py
+$ python -m flask run
+ * Running on http://127.0.0.1:5000/
+```
+
 ## Author
 Niamh O'Leary for HDip in Data Analytics 2019/2020.
 
