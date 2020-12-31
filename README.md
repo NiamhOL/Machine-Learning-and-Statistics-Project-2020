@@ -9,12 +9,11 @@
 3. Assessment.pdf - pdf document outlining the project
 4  Powerproduction.csv - data used in analysis and running the models
 5. Images -  images used in the tasks
-6. Dockerfile
-7. Requirements.txt
-8. Dockerfile
-9. server.py 
-10. wind_speed- wind model
-11. Images included in the project
+6. Requirements.txt
+7. Dockerfile
+8. server.py 
+9. wind_speed- wind model
+10. Images included in the project
 
 ## Overview of Project
 
