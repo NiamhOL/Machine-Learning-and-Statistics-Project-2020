@@ -60,7 +60,6 @@ Conda was used to create a localhost Virtual Environment (venvMLP) for running t
 Running on http://127.0.0.1:5000/
 
 ![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/Capture.PNG)
-![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/tensorflow.png)
 ![image](https://raw.githubusercontent.com/NiamhOL/Machine-Learning-and-Statistics-Project-2020/main/flask2.png)
 
 Copy the URL and open a web browser. 
