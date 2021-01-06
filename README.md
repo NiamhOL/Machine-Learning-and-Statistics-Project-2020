@@ -10,7 +10,7 @@
 4  Powerproduction.csv - data used in analysis and running the models
 5. Images -  images used in the tasks
 6. Requirements.txt
-7. Dockerfile
+7. Dockerfiles
 8. server.py 
 9. wind_speed- wind model
 10. Images included in the project
