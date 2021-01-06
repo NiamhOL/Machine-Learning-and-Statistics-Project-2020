@@ -81,6 +81,9 @@ python3 -m flask run
  * Running on http://127.0.0.1:5000/
 ```
 
+#### In the Browser
+Enter a random speed wind of your choice from 0 to 24.5.The application will predict the power generated from the wind speed entered for the model.
+
 ## Author
 Niamh O'Leary for HDip in Data Analytics 2019/2020.
 
