@@ -34,11 +34,11 @@ The following packages were used to run statistical analysis and draw grpahs for
 * Numpy http://www.numpy.org/ - is the fundamental package for scientific computing within Python.
 * Jupyter Notebook https://jupyter.org/ - is an open-source web application that allows the creation and sharing of documents that contains live code, equations, visualisations    and narriative text
 * import pandas as pd https://pandas.pydata.org/
-* import scipy.stats as stats https://docs.scipy.org/doc/scipy/reference/stats.html
-* import matplotlib.pylab as plt https://matplotlib.org/
-* from sklearn.model_selection import ....https://scikit-learn.org/stable/
-* from from tensorflow.keras.models import ......https://keras.io/about/#keras-amp-tensorflow-20
-* from tensorflow.keras.layers import......https://keras.io/about/#keras-amp-tensorflow-20
+* import scipy.stats as stats https://docs.scipy.org/doc/scipy/reference/stats.html - module contains a large number of probability distributions as well as a growing library of statistical functions.
+* import matplotlib.pylab as plt https://matplotlib.org/ - is a comprehensive library for creating static, animated, and interactive visualisations in Python.
+* from sklearn.model_selection import ....https://scikit-learn.org/stable/ - is a simple and efficient tools for predictive data analysis.
+* from from tensorflow.keras.models import ......https://keras.io/about/#keras-amp-tensorflow-20 -  is an end-to-end open source platform for machine learning.
+* from tensorflow.keras.layers import......https://keras.io/about/#keras-amp-tensorflow-20 -  is an end-to-end open source platform for machine learning.
 
 ## Running the web service
 
